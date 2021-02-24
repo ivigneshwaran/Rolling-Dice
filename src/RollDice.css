@@ -26,3 +26,7 @@
   background-color: darkslateblue;
   cursor: pointer;
 }
+
+.RollDice-cursor-d {
+  cursor: not-allowed;
+}
