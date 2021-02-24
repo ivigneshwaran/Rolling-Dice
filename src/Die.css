@@ -1,0 +1,9 @@
+.Die {
+  display: inline-block;
+}
+ 
+.Die-icon {
+  font-size: 10em;
+  padding: .25em;
+  color: slateblue;
+}
